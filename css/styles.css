@@ -1,0 +1,19 @@
+/* This Stylesheet is only for the website design. It IS NOT part of the admonition styles */
+* {
+    background-color: #fffff8;
+}
+
+body {
+    padding-top: 6%;
+    padding-bottom: 6%;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+h2 {
+    font-weight: 100;
+}
